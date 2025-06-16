@@ -9,7 +9,7 @@ from tensorflow.keras.models import load_model
 # Configure styling
 sns.set_theme(style="whitegrid")
 st.set_page_config(
-    page_title="IoT Intrusion Detection System",
+    page_title="Federated Learning for Anomaly Detection in IOT Environments",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded"
