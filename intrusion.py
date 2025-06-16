@@ -40,7 +40,7 @@ def main():
     # Sidebar with model information
     st.sidebar.header("About")
     st.sidebar.markdown("""
-    **IoT Intrusion Detection Dashboard**  
+    **Federated Learning for Anomaly Detection in IOT Environments**  
     This system detects and classifies cyber attacks on IoT networks using deep learning.  
     The model achieves 93.6% accuracy on validation data.
     """)
@@ -67,7 +67,7 @@ def main():
     )
     
     # Main content
-    st.title("🛡️ Edge IoT Intrusion Detection System")
+    st.title("🛡️ Federated Learning for Anomaly Detection in IOT Environments")
     st.caption("Detect and classify security threats in IoT network traffic")
     
     # Initialize session state
